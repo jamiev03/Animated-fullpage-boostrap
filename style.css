@@ -14,10 +14,10 @@ body {
 }
 
 .img-box {
-   width: 550px
+   width: 550px;
 }
 
-.pic-1 {
+.pic-1, .pic-2 {
     width: 100%;
 }
 
@@ -45,3 +45,19 @@ body {
     border-radius: 20px;
     color: white;
 } 
+
+.slide-2 {
+    background: #f7f7f7;
+}
+
+.slide-2 h1, .slide-2 p {
+    color: #feb154;
+}
+
+.image-1 {
+    width: 100%;
+}
+
+.slide-two button {
+    
+}
