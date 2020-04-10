@@ -86,10 +86,6 @@ body {
     background: #f7f7f7;
 }
 
-.slide-2 h1, .slide-2 p {
-    color: #feb154;
-}
-
 .img-1 {
     width: 100%;
 }
@@ -124,4 +120,5 @@ body {
 
 .slide-2 button {
     background: linear-gradient(to right, #feb154, #ffd255);
+    color: inherit;
 }
