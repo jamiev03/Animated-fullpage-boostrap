@@ -4,9 +4,21 @@
     // font-family: 'Lato', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+.nav-link {
+    color: black;
+}
 
-body {
-     
+.nav-link:hover {
+    color: black;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: black;
+}
+
+.navbar-brand:hover {
+    color: black;
 }
 
 .carousel-item {
@@ -62,7 +74,7 @@ body {
 }
 
 .carousel-item .row {
-    margin: 15% 0;
+    margin: 20% 0;
 }
 
 .carousel-item h1 {
@@ -121,4 +133,14 @@ body {
 .slide-2 button {
     background: linear-gradient(to right, #feb154, #ffd255);
     color: inherit;
+}
+
+.footer {
+    text-align: center;
+    background-color: inherit;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
 }
